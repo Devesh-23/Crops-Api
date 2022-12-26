@@ -1,0 +1,631 @@
+{
+   "all" :[
+   {
+      "id":"1",
+      "Crop":"Paddy",
+      "Variety":"Chinsurah Rice (IET 19140)",
+      "Season_duration_in_days":"Medium",
+      "Recommended_Zone":"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions.",
+      "field5":""
+   },
+   {
+      "id":"2",
+      "Crop":"Paddy",
+      "Variety":"(CNI 383-5-11)",
+      "Season_duration_in_days":"",
+      "Recommended_Zone":"",
+      "field5":""
+   },
+   {
+      "id":"3",
+      "Crop":"Paddy",
+      "Variety":"IGKVR-1 (IET 19569)",
+      "Season_duration_in_days":"Mid-early",
+      "Recommended_Zone":"Chhattisgarh, Madhya Pradesh and Orissa under  both irrigated and rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"4",
+      "Crop":"Paddy",
+      "Variety":"IGKVR-2 (IET 19795)",
+      "Season_duration_in_days":"Medium",
+      "Recommended_Zone":"Chhattisgarh, Bihar and Orissa under  both irrigated and rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"5",
+      "Crop":"Paddy",
+      "Variety":"CR Dhan 401 (REETA) ",
+      "Season_duration_in_days":"145-150",
+      "Recommended_Zone":"Orissa, West Bengal, Tamil Nadu and Andhra Pradesh under irrigated late sown conditions as well as shallow rainfed lowland.",
+      "field5":""
+   },
+   {
+      "id":"6",
+      "Crop":"Paddy",
+      "Variety":"CR Dhan 601 (IET 18558)",
+      "Season_duration_in_days":"160",
+      "Recommended_Zone":"Boro Area of Orissa, West Bengal and Assam.",
+      "field5":""
+   },
+   {
+      "id":"7",
+      "Crop":"Paddy",
+      "Variety":"CR Dhan 501 (IET 19189)",
+      "Season_duration_in_days":"152",
+      "Recommended_Zone":"Semi deep water condition of Uttar Pradesh and Assam.",
+      "field5":""
+   },
+   {
+      "id":"8",
+      "Crop":"Paddy",
+      "Variety":"RC Maniphou 11 (IET 20193)",
+      "Season_duration_in_days":"132-135",
+      "Recommended_Zone":"Terraced area of Meghalaya and Manipur hills both under irrigated and rainfed condition.",
+      "field5":""
+   },
+   {
+      "id":"9",
+      "Crop":"Wheat",
+      "Variety":"MPO(JW)  1215 (MPO 1215)",
+      "Season_duration_in_days":"120",
+      "Recommended_Zone":"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"10",
+      "Crop":"Wheat",
+      "Variety":"MACS 6222",
+      "Season_duration_in_days":"108",
+      "Recommended_Zone":"Maharashtra, Karnataka, Andhra Pradesh and Tamil Nadu under timely sown irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"11",
+      "Crop":"Wheat",
+      "Variety":"PDW 314",
+      "Season_duration_in_days":"169",
+      "Recommended_Zone":"Punjab, Haryana, Western Uttar Pradesh, Delhi, Rajasthan (Excluding Kota & Udaipur Divisions), Tarai Regions of Uttarakhand, Paonta Valley & Una District of Himachal Pradesh under timely sown irrigated conditions.",
+      "field5":""
+   },
+   {
+      "id":"12",
+      "Crop":"Wheat",
+      "Variety":"DBW39",
+      "Season_duration_in_days":"123",
+      "Recommended_Zone":"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal, Assam and Orissa under timely sown irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"13",
+      "Crop":"Wheat",
+      "Variety":"VL Gehun 907 (VL 907)",
+      "Season_duration_in_days":"167 irrigated   & 180 rainfed",
+      "Recommended_Zone":"Himachal Pradesh,  Jammu & Kashmir, Uttarakhand and Sikkim under timely sown irrigated conditions.",
+      "field5":""
+   },
+  
+   {
+      "id":"14",
+      "Crop":"Wheat",
+      "Variety":"Pusa Prachi (HI 1563)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal (except Hills), Orissa, Assam and the place of North Eastern states in late sown condition.",
+      "field5":""
+   },
+   {
+      "id":"15",
+      "Crop":"Wheat",
+      "Variety":"WHD 943",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Punjab, Haryana, Delhi, Rajasthan (except Kota and Udaipur divisions), West Uttar Pradesh (except Jhansi Divisions) Jammu and Kathua districts of Jammu and Kashmir, Paonta valley and Una district of Himachal Pradesh, and tarai region of Uttarakhand.",
+      "field5":""
+   },
+   {
+      "id":"16",
+      "Crop":"Wheat",
+      "Variety":"Netravati  (NIAW 1415)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Maharshtra, and Karnataka under rainfed condition and restricted irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"17",
+      "Crop":"Barley",
+      "Variety":"BH-902",
+      "Season_duration_in_days":"130",
+      "Recommended_Zone":"Punjab, Haryana, Western Uttar Pradesh (Excluding Jhansi Division), Delhi, Rajasthan (Excluding Kota & Udaipur Divisions), Tarai Regions of Uttarakhand & Jammu and Kathua District of J & K under timely sown irrigated conditions.",
+      "field5":""
+   },
+   {
+      "id":"18",
+      "Crop":"Barley",
+      "Variety":"DWRB 73",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Punjab, Haryana, Western Uttar Pradesh, Delhi and Rajasthan (except Kota and Udaipur region) under irrigated late sown condition.",
+      "field5":""
+   },
+   {
+      "id":"19",
+      "Crop":"Barley",
+      "Variety":"Pusa Losar  (BH- 380)",
+      "Season_duration_in_days":"190",
+      "Recommended_Zone":"Himachal Pradesh, Uttarakhand, Jammu & Kashmir and North Eastern States under timely sown rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"20",
+      "Crop":"Maize",
+      "Variety":"HSC1",
+      "Season_duration_in_days":"80-82",
+      "Recommended_Zone":"Himachal Pradesh and Uttarakhand under Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"21",
+      "Crop":"Maize",
+      "Variety":"HQPM-4",
+      "Season_duration_in_days":"95",
+      "Recommended_Zone":"Punjab, Haryana, Delhi, West and Central UP, Bihar, Jharkhand, Orissa, Eastern UP, Andhra Pradesh, Karnataka, Tamilnadu, Maharashtra, Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh under Kharif Season.",
+      "field5":""
+   },
+   {
+      "id":"22",
+      "Crop":"Maize",
+      "Variety":"MCH 36 (Hybrid) (DKC 9099)",
+      "Season_duration_in_days":"99",
+      "Recommended_Zone":"Karnataka, Tamil Nadu and Maharashtra in Kharif season under irrigated and rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"23",
+      "Crop":"Maize",
+      "Variety":"DHM 119 (BH 4062)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Andhra Pradesh, Maharashtra, Tamil Nadu and Karnataka in Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"24",
+      "Crop":"Maize",
+      "Variety":"PMH 4 (JH 31153)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Punjab, Haryana, Delhi and western Uttar Pradesh under irrigated condition.",
+      "field5":""
+   },
+   
+   {
+      "id":"25",
+      "Crop":"Pearl Millet",
+      "Variety":"Nandi-61 (MH-1548)",
+      "Season_duration_in_days":"81",
+      "Recommended_Zone":"Rajasthan, Gujarat, Haryana, Punjab and Delhi in Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"26",
+      "Crop":"Pearl Millet",
+      "Variety":"86M64 (MSH 203) (Hybrid)",
+      "Season_duration_in_days":"80-85",
+      "Recommended_Zone":"Rajasthan, Gujarat, Maharashtra and Tamil Nadu in summer season.",
+      "field5":""
+   },
+   {
+      "id":"27",
+      "Crop":"Pearl Millet",
+      "Variety":"MH 1540 (86M64) (Hybrid)",
+      "Season_duration_in_days":"80-85",
+      "Recommended_Zone":"Andhra Pradesh, Karnataka, Tamil Nadu   and Maharashtra under normal Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"28",
+      "Crop":"Pearl Millet",
+      "Variety":"MH 1541 (86M53) (Hybrid)",
+      "Season_duration_in_days":"78-80",
+      "Recommended_Zone":"Andhra Pradesh, Karnataka, Tamil Nadu and Maharashtra under normal Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"29",
+      "Crop":"Pearl Millet",
+      "Variety":"RHB 177 (MH 1486)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Rajasthan, Haryana and Gujarat under rainfed low fertility condition.",
+      "field5":""
+   },
+   {
+      "id":"30",
+      "Crop":"Pearl Millet",
+      "Variety":"HHB 226  (MH 1479)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Rajasthan, Gujarat, Haryana, Uttar Pradesh, Punjab and Madhya Pradesh.",
+      "field5":""
+   },
+   {
+      "id":"31",
+      "Crop":"Finger Millet",
+      "Variety":"GPU 67",
+      "Season_duration_in_days":"119",
+      "Recommended_Zone":"Chhattisgarh, Jharkhand, Karnataka, Maharashtra, Tamil Nadu and Uttarakhand in Kharif  season.",
+      "field5":""
+   },
+   {
+      "id":"32",
+      "Crop":"Indian Mustard",
+      "Variety":"DRMR 601 (NRCDR 601)",
+      "Season_duration_in_days":"144",
+      "Recommended_Zone":"Rajasthan, Haryana, Punjab, Delhi and Jammu & Kashmir under timely sown irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"33",
+      "Crop":"Indian Mustard",
+      "Variety":"Pusa Mustard 26 (NPJ-113)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Plains of Jammu & Kashmir, Punjab, Haryana, Rajasthan, Delhi and Western Uttar Pradesh in multiple cropping systems.",
+      "field5":""
+   },
+   {
+      "id":"34",
+      "Crop":"Indian Mustard",
+      "Variety":"Pusa Mustard 27 (EJ-17)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Uttar Pradesh, Madhya Pradesh, Uttarakhand and Kota region of Rajasthan in multiple cropping systems.",
+      "field5":""
+   },
+   {
+      "id":"35",
+      "Crop":"Indian Mustard",
+      "Variety":"CORAL 432 (PAC 432)(Hybrid)",
+      "Season_duration_in_days":"130",
+      "Recommended_Zone":"Uttar Pradesh, Madhya Pradesh, Rajasthan and Uttarakhand under timely sown irrigated condition",
+      "field5":""
+   },
+   {
+      "id":"36",
+      "Crop":"Yellow Sarson",
+      "Variety":"Pitambari (RYSK-05-02)",
+      "Season_duration_in_days":"110-115",
+      "Recommended_Zone":"UP, West Bengal, Haryana, Bihar, Gujarat, Uttarakhand and Manipur.",
+      "field5":""
+   },
+   {
+      "id":"37",
+      "Crop":"Linseed",
+      "Variety":"JLS-67 (Shival)",
+      "Season_duration_in_days":"114",
+      "Recommended_Zone":"Bundelkhand part of Uttar Pradesh, Madhya Pradesh and Rajasthan under rainfed condition.",
+      "field5":""
+   },
+   {
+      "id":"38",
+      "Crop":"Linseed",
+      "Variety":"Ruchi (LCK 5021)",
+      "Season_duration_in_days":"134",
+      "Recommended_Zone":"Uttar Pradesh (except Bundelkhand), Bihar, Assam, West Bengal and Jharkhand under timely sown irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"39",
+      "Crop":"Linseed",
+      "Variety":"JLS-73 (SLS-73)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Madhya Pradesh, Rajasthan and Bundelkhand of Uttar Pradesh, north east and Central Maharashtra and North east part of Gujarat in Rabi season under irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"40",
+      "Crop":"Groundnut",
+      "Variety":"Girnar - 3 (PBS 12160)",
+      "Season_duration_in_days":"108",
+      "Recommended_Zone":"West Bengal, Orissa and Manipur under Kharif rainfed condition.",
+      "field5":""
+   },
+   {
+      "id":"41",
+      "Crop":"Groundnut",
+      "Variety":"Kadiri Harithandhra (K 1319)",
+      "Season_duration_in_days":"122",
+      "Recommended_Zone":"Karnataka and Maharashtra under timely sown irrigated condition in Rabi and Summer season.",
+      "field5":""
+   },
+   {
+      "id":"42",
+      "Crop":"Groundnut",
+      "Variety":"GPBD 5",
+      "Season_duration_in_days":"105-110",
+      "Recommended_Zone":"Jharkhand and Manipur in Kharif Season.",
+      "field5":""
+   },
+   {
+      "id":"43",
+      "Crop":"Sesame",
+      "Variety":"Rajasthan Till 351 (RT 351)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Rajasthan, Uttar Pradesh, Maharashtra, Gujarat, Karnataka, Himachal Pradesh, Punjab, Haryana and Jammu and Kashmir.",
+      "field5":""
+   },
+   {
+      "id":"44",
+      "Crop":"Chickpea ",
+      "Variety":"Ujjawal (IPCK2004-29)",
+      "Season_duration_in_days":"103-111",
+      "Recommended_Zone":"MP, South Rajasthan, Chhattisgarh, Maharashtra, Gujarat, Bundelkhand Region of UP under irrigated conditions during Rabi Season.",
+      "field5":""
+   },
+   {
+      "id":"45",
+      "Crop":"Bengal Gram",
+      "Variety":"PKV KABULI-4",
+      "Season_duration_in_days":"110",
+      "Recommended_Zone":"Maharashtra, Madhya Pradesh under irrigated conditions.",
+      "field5":""
+   },
+   {
+      "id":"46",
+      "Crop":"Bengal Gram",
+      "Variety":"MNK-1",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Karnataka, Andhra Pradesh, Orissa and Tamil Nadu in normal sown rainfed as well as irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"47",
+      "Crop":"Lentil",
+      "Variety":"Pant Lentil-8(Pant L-063)",
+      "Season_duration_in_days":"135",
+      "Recommended_Zone":"Punjab, Haryana, Plains of Uttarakhand, Western Uttar Pradesh, Delhi and Rajasthan as a pure crop in Rabi season.",
+      "field5":""
+   },
+   {
+      "id":"48",
+      "Crop":"Lentil",
+      "Variety":"Pant Lentil-7(Pant L-024)",
+      "Season_duration_in_days":"147",
+      "Recommended_Zone":"Punjab, Haryana and Uttar Pradesh under in Rabi season.",
+      "field5":""
+   },
+   {
+      "id":"49",
+      "Crop":"Fieldpea",
+      "Variety":"Aman  (IPF 5-19)",
+      "Season_duration_in_days":"137",
+      "Recommended_Zone":"Punjab, Haryana, Plains of Uttarakhand, Western Uttar Pradesh, Delhi and parts of Rajasthan during Rabi season.",
+      "field5":""
+   },
+   {
+      "id":"50",
+      "Crop":"Fieldpea",
+      "Variety":"GOMATI (TRCP-8)",
+      "Season_duration_in_days":"140",
+      "Recommended_Zone":"Uttarakhand Hills, Jammu & Kashmir and North Eastern States under normal sown Rabi season as pure crop.",
+      "field5":""
+   },
+   {
+      "id":"51",
+      "Crop":"Fieldpea",
+      "Variety":"Dantiwada Fieldpea 1 (SKNP 04-09)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Eastern Uttar Pradesh, Bihar, Jharkhand and West Bengal in Rabi season.",
+      "field5":""
+   },
+   {
+      "id":"52",
+      "Crop":"French Bean",
+      "Variety":"Gujarat Rajmash-1 (DPR 88-1-2)",
+      "Season_duration_in_days":"108",
+      "Recommended_Zone":"Gujarat, Southern Part of Rajasthan, Maharashtra and Madhya Pradesh.",
+      "field5":""
+   },
+   {
+      "id":"53",
+      "Crop":"Mungbean",
+      "Variety":"PKV AKM-4 (AKM-9904)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Karnataka, Tamil Nadu and Orissa in Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"54",
+      "Crop":"Urdbean",
+      "Variety":"Mash 479 (KUG 479)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Punjab, Haryana, Western Uttar Pradesh and Plains of Uttarakhand in Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"55",
+      "Crop":"Urdbean",
+      "Variety":"Mash 391 (LU 391)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Karnataka, Andhra Pradesh, Orissa and Tamil Nadu in summer season.",
+      "field5":""
+   },
+   {
+      "id":"56",
+      "Crop":"Cluster Bean",
+      "Variety":"HG 884",
+      "Season_duration_in_days":"110",
+      "Recommended_Zone":"Uttar Pradesh, Madhya Pradesh, Haryana, Gujarat and Rajasthan under timely sowing, normal fertility and rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"57",
+      "Crop":"Horse Gram",
+      "Variety":"CRIDALATHA (CRHG-4)",
+      "Season_duration_in_days":"110",
+      "Recommended_Zone":"South India under rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"58",
+      "Crop":"Sugarcane",
+      "Variety":"Karan 6 (Co 0239)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh.",
+      "field5":""
+   },
+   {
+      "id":"59",
+      "Crop":"Sugarcane",
+      "Variety":"Karan 5 (Co 0124)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh.",
+      "field5":""
+   },
+   {
+      "id":"60",
+      "Crop":"Sugarcane",
+      "Variety":"Co-0218",
+      "Season_duration_in_days":"360",
+      "Recommended_Zone":"Tamil Nadu, Karnataka, Maharashtra, Kerala, Interior Andhra Pradesh.",
+      "field5":""
+   },
+   {
+      "id":"61",
+      "Crop":"Napier Bajra Hybrid",
+      "Variety":"Phule Jaywant (RBN-13)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Madhya Pradesh, Maharashtra, Gujarat, Southern Part of UP, Andhra Pradesh, Tamil Nadu, Karnataka and Kerala under irrigated conditions.",
+      "field5":""
+   },
+   {
+      "id":"62",
+      "Crop":"Oat",
+      "Variety":"Narendra Jayee -1 (NDO - 1)",
+      "Season_duration_in_days":"120",
+      "Recommended_Zone":"Oat growing areas of India for single cut system under both normal and salt affected soil in Rabi Season.",
+      "field5":""
+   },
+   {
+      "id":"63",
+      "Crop":"Oat",
+      "Variety":"OS 346",
+      "Season_duration_in_days":"90",
+      "Recommended_Zone":"Madhya Pradesh, Gujarat and Maharashtra under timely sown irrigated condition suitable for single cut system.",
+      "field5":""
+   },
+   
+   {
+      "id":"64",
+      "Crop":"Tall Fescue Grass",
+      "Variety":"EC 178182",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"The temperate and sub-temperate grasslands and pastures of hill zone of the country comprising states of Himachal Pradesh, Uttarakhand and Jammu & Kashmir.",
+      "field5":""
+   },
+   {
+      "id":"65",
+      "Crop":"Cowpea (Fodder)",
+      "Variety":"UPC 628",
+      "Season_duration_in_days":"145-150",
+      "Recommended_Zone":"States of Uttarakhand, HP, J & K, Punjab, Haryana, Rajasthan, UP, MP, Chhattisgarh, Bihar, Jharkhand, West Bengal, Orissa, Assam, Gujarat and Maharashtra in irrigated summer and rainfed Kharif.",
+      "field5":""
+   },
+   {
+      "id":"66",
+      "Crop":"Jute",
+      "Variety":"SUDHANGSU (JBO-1)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"West Bengal, Assam, Bihar and Orissa.",
+      "field5":""
+   },
+   {
+      "id":"67",
+      "Crop":"Jute",
+      "Variety":"ARPITA  (JBC-5)",
+      "Season_duration_in_days":"-",
+      "Recommended_Zone":"West Bengal and Assam under rainfed agro system.",
+      "field5":""
+   },
+   {
+      "id":"68",
+      "Crop":"Mesta",
+      "Variety":"SNEHA  (JRM-3)",
+      "Season_duration_in_days":"-",
+      "Recommended_Zone":"Traditional Mesta Growing belt of the Country under rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"69",
+      "Crop":"Mesta",
+      "Variety":"SHRESTHA (JRM-5)",
+      "Season_duration_in_days":"-",
+      "Recommended_Zone":"Andhra Pradesh, Orissa, Assam, Maharashtra, Bihar and West Bengal under rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"70",
+      "Crop":"Cotton",
+      "Variety":"CNH012",
+      "Season_duration_in_days":"165",
+      "Recommended_Zone":"Gujarat, Maharashtra and Madhya Pradesh.",
+      "field5":""
+   },
+   {
+      "id":"71",
+      "Crop":"Cotton",
+      "Variety":"CICR-3 (CISA 614)",
+      "Season_duration_in_days":"150",
+      "Recommended_Zone":"Punjab, Haryana and Uttar Pradesh under wilt free area.",
+      "field5":""
+   },
+   {
+      "id":"72",
+      "Crop":"Cotton",
+      "Variety":"VBCH 2231",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Maharashtra, Gujarat, Madhya Pradesh and Orissa under rainfed conditions.",
+      "field5":""
+   },
+   {
+      "id":"73",
+      "Crop":"Desi Cotton",
+      "Variety":"FDK 124",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Punjab, Haryana and Rajasthan under irrigated condition.",
+      "field5":""
+   },
+   {
+      "id":"74",
+      "Crop":"Wheat",
+      "Variety":"Pusa Suketi  HS 507",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Himachal Pradesh, Uttarakhand, Jammu and Kashmir and the North Eastern state under timely sown rainfed condition in lower and mid hills.",
+      "field5":""
+   },
+   {
+      "id":"75",
+      "Crop":"Oat",
+      "Variety":"JO 03-91 (SC)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Madhya Pradesh, Chhattisgarh, Bundelkhand region of Uttar Pradesh, Rahuri and Urulikanchan areas of Maharashtra and Anand adjoining area of Gujarat.",
+      "field5":""
+   },
+   {
+      "id":"76",
+      "Crop":"Maize",
+      "Variety":"PMH 5 (JH 3110)",
+      "Season_duration_in_days":"NA",
+      "Recommended_Zone":"Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh in Kharif season under both irrigated and rainfed condition.",
+      "field5":""
+   },
+   {
+      "id":"77",
+      "Crop":"Pearl Millet",
+      "Variety":"Nandi-65 (MH-1549)",
+      "Season_duration_in_days":"80",
+      "Recommended_Zone":"Rajasthan, Gujarat, Haryana, MP, UP, Punjab and Delhi in Kharif season.",
+      "field5":""
+   },
+   {
+      "id":"78",
+      "Crop":"Cluster Bean",
+      "Variety":"HG 2-20",
+      "Season_duration_in_days":"100",
+      "Recommended_Zone":"Uttar Pradesh, Haryana, Gujarat and Rajasthan under timely sowing, normal fertility and rainfed conditions",
+      "field5":""
+   }
+]
+}

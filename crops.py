@@ -84,6 +84,6 @@ api.add_resource(home,'/',endpoint = '')
 api.add_resource(getAllCrops,'/all',endpoint = 'all' )
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
 
 

@@ -18,7 +18,7 @@ class getAllCrops(Resource):
         f = open('data (1).json')
         cropData = json.load(f)
 
-        #cropname, pageno, 
+ 
         crop=request.args.get('crop', type=str)
         pageno=request.args.get('pageno', type=int)
         limit=request.args.get('limit', type=int)
@@ -70,13 +70,6 @@ class getAllCrops(Resource):
             return response[offset:(offset+10)],200
         except Exception as e:
             return e.message, 500
-
-    
-        
-        # print(cropData)
-
-
-
 
         
 
